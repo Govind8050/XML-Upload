@@ -1,19 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
+
     <product>
-        <sku>TEST-SKU-001</sku>
-        <name>Test Wireless Earphones</name>
-        <description>Test product description for XML feed integration.</description>
-        <short_description>Wireless earphones with deep bass.</short_description>
-        <price>999.00</price>
-        <stock>25</stock>
+        <sku>TEST-SKU-006</sku>
+        <name>Test Gaming Keyboard</name>
+        <description>RGB mechanical gaming keyboard for testing XML product integration.</description>
+        <short_description>RGB mechanical gaming keyboard.</short_description>
+        <price>2499.00</price>
+        <stock>20</stock>
         <images>
-            <image>https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800</image>
+            <image>https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800</image>
         </images>
-        <category>Electronics &gt; Earphones</category>
+        <category>Electronics &gt; Computer Accessories</category>
         <brand>TestBrand</brand>
-        <ean>8901234567890</ean>
-        <weight>0.25</weight>
+        <ean>8901234567895</ean>
+        <weight>0.75</weight>
     </product>
-    
+
+    <product>
+        <sku>TEST-SKU-007</sku>
+        <name>Test HD Webcam</name>
+        <description>Full HD webcam for online meetings and video calls.</description>
+        <short_description>Full HD USB webcam.</short_description>
+        <price>1799.00</price>
+        <stock>15</stock>
+        <images>
+            <image>https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=800</image>
+        </images>
+        <category>Electronics &gt; Computer Accessories</category>
+        <brand>TestBrand</brand>
+        <ean>8901234567896</ean>
+        <weight>0.30</weight>
+    </product>
+
+    <product>
+        <sku>TEST-SKU-008</sku>
+        <name>Test Power Bank</name>
+        <description>10000mAh portable power bank for charging mobile devices.</description>
+        <short_description>10000mAh portable power bank.</short_description>
+        <price>1299.00</price>
+        <stock>35</stock>
+        <images>
+            <image>https://images.unsplash.com/photo-1609592424820-7d3b5c4f7a89?w=800</image>
+        </images>
+        <category>Electronics &gt; Power Banks</category>
+        <brand>TestBrand</brand>
+        <ean>8901234567897</ean>
+        <weight>0.22</weight>
+    </product>
+
+    <product>
+        <sku>TEST-SKU-009</sku>
+        <name>Test Wireless Charger</name>
+        <description>Fast wireless charging pad for compatible smartphones.</description>
+        <short_description>Fast wireless charging pad.</short_description>
+        <price>899.00</price>
+        <stock>28</stock>
+        <images>
+            <image>https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=800</image>
+        </images>
+        <category>Electronics &gt; Chargers</category>
+        <brand>TestBrand</brand>
+        <ean>8901234567898</ean>
+        <weight>0.18</weight>
+    </product>
+
+    <product>
+        <sku>TEST-SKU-010</sku>
+        <name>Test Bluetooth Headphones</name>
+        <description>Over-ear Bluetooth headphones with deep bass and long battery life.</description>
+        <short_description>Wireless over-ear Bluetooth headphones.</short_description>
+        <price>2199.00</price>
+        <stock>22</stock>
+        <images>
+            <image>https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800</image>
+        </images>
+        <category>Electronics &gt; Headphones</category>
+        <brand>TestBrand</brand>
+        <ean>8901234567899</ean>
+        <weight>0.35</weight>
+    </product>
+
 </products>
