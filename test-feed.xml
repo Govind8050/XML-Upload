@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <sku>TEST-SKU-001</sku>
+        <name>Test Wireless Earphones</name>
+        <description>Test product description for XML feed integration.</description>
+        <short_description>Wireless earphones with deep bass.</short_description>
+        <price>999.00</price>
+        <stock>25</stock>
+        <images>
+            <image>https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800</image>
+        </images>
+        <category>Electronics &gt; Earphones</category>
+        <brand>TestBrand</brand>
+        <ean>8901234567890</ean>
+        <weight>0.25</weight>
+    </product>
+    <product>
+        <sku>TEST-SKU-002</sku>
+        <name>Test Bluetooth Speaker</name>
+        <description>Portable Bluetooth speaker for testing supplier feed.</description>
+        <short_description>Portable wireless speaker.</short_description>
+        <price>1499.00</price>
+        <stock>10</stock>
+        <images>
+            <image>https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=800</image>
+        </images>
+        <category>Electronics &gt; Speakers</category>
+        <brand>TestBrand</brand>
+        <ean>8901234567891</ean>
+        <weight>0.80</weight>
+    </product>
+    <product>
+        <sku>TEST-SKU-003</sku>
+        <name>Test USB Type C Cable</name>
+        <description>High quality USB Type C charging and data cable.</description>
+        <short_description>USB Type C cable.</short_description>
+        <price>299.00</price>
+        <stock>0</stock>
+        <images>
+            <image>https://images.unsplash.com/photo-1591290619762-9f5b6f4e0f4c?w=800</image>
+        </images>
+        <category>Electronics &gt; Cables</category>
+        <brand>TestBrand</brand>
+        <ean>8901234567892</ean>
+        <weight>0.10</weight>
+    </product>
+</products>
